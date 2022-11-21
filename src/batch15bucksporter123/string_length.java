@@ -11,6 +11,7 @@ public class string_length {
 		
 		int s=a.length();
 		System.out.println(s);  // result  8
+		System.out.println("hey this is satyam's updated code");
 	}
 
 }
